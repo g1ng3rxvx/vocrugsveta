@@ -1,0 +1,78 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    background-color: #DAF7A6;
+    font-size: 25px;
+}
+img {
+    width: 50x;
+    
+}
+footer p {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    border: 2px solid #581845;
+    color:#900C3F;
+    border-radius: 8px;
+    padding: 6px;
+    
+
+}
+.covid19 {
+    color: red;
+}
+.back {
+    border: 0px solid;
+    color: white;
+    margin-left: 45px;
+}
+footer img {
+    width: 20px;
+}
+h1{
+    text-align: center;
+    color: #C70039;
+}
+h2 {
+    text-align: center;
+    color:    #900C3F;
+}
+.aicon {
+    width: 25px;
+}
+main img {
+    width: 100%;
+}
+table img {
+    width: 100%;
+}
+table {
+    font-size: 25px;
+    color: #7e2162;
+    border: 5px dashed #C70039;
+    border-collapse: collapse;
+}
+td {
+    border: 3px dotted #FF5733;  
+}
+p img {
+    width: 25px;
+}
+p {
+    font-size: 25px;
+    color: #581845;
+}
+header img {
+    width: 50px;
+}
+.we {
+    background-color: #DAF7A6 ;
+}
+.imgte {
+    width: 50%;
+}
